@@ -1,0 +1,46 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(181, 215, 238);
+}
+h1{
+    color: rgb(3, 48, 48);
+}
+form{
+    background-color: rgb(184, 220, 245);
+    text-align: center;
+    max-width: 400px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 15px rgb(105, 124, 138);
+}
+#texbox{
+width: 50%;
+text-align: center;
+background-color: rgb(255, 255, 255);
+font-size: 120%;
+margin-bottom: 10px;
+}
+label{
+    font-size: 140%;
+    color: rgb(26, 30, 46);
+    font-weight: bold;
+}
+button{
+    margin-top: 15px;
+    background-color: rgba(116, 172, 245, 0.356);
+    font-size: 110%;
+    color: rgb(7, 6, 6);
+    font-weight: bold;
+    border: none;
+    padding: 12px 15;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgba(97, 144, 206, 0.356);
+}
+#result{
+    font-size: 150%;
+    font-weight: bold;
+}
